@@ -45,13 +45,13 @@
     but also consider 'a.b?(:c)' ??
 </string>
 
-        <key>fileTypes</key>
-        <array>
-                <string>mirah</string>
-                <string>duby</string>
+  <key>fileTypes</key>
+  <array>
+    <string>mirah</string>
+    <string>duby</string>
 	</array>
 	<key>firstLineMatch</key>
-	<string>^#!/.*\bruby</string>
+	<string>^#!/.*\bmirah</string>
 	<key>foldingStartMarker</key>
 	<string>(?x)^
 	    (\s*+
@@ -91,7 +91,7 @@
 	<key>keyEquivalent</key>
 	<string>^~R</string>
 	<key>name</key>
-	<string>Ruby</string>
+	<string>Mirah</string>
 	<key>patterns</key>
 	<array>
 		<dict>

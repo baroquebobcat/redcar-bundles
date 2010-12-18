@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string>wnzrf@tenlcebqhpgvbaf.arg</string>
+	<string>aqu@onebdhrobopng.pbz</string>
 	<key>contactName</key>
-	<string>James Edward Gray II</string>
+	<string>Nick Howard</string>
 	<key>deleted</key>
 	<array>
 		<string>3988A501-119E-4C0E-A584-C5E75FC2D6C6</string>
@@ -22,7 +22,7 @@
 		<string>6670881E-62C3-11D9-B8CF-000D93589AF6</string>
 	</array>
 	<key>description</key>
-	<string>Support for the &lt;a href="http://www.mirah.org/"&gt;Mirah&lt;/a&gt; programming language.</string>
+	<string>Support for the &lt;a href="http://www.mirah.org/"&gt;Mirah&lt;/a&gt; programming language. Currently, mostly a copy of the Ruby bundle by James Edward Gray II.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -420,8 +420,8 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>name</key>
-	<string>Ruby</string>
+	<key>name</key>  
+	<string>Mirah</string>
 	<key>ordering</key>
 	<array>
 		<string>35222962-C50D-4D58-A6AE-71E7AD980BE4</string>
